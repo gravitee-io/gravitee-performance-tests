@@ -119,7 +119,7 @@
     <properties>
         <gatling-maven-plugin.version>2.2.1</gatling-maven-plugin.version>
         <scala-library.version>2.11.8</scala-library.version>
-        <gatling.version>2.2.3</gatling.version>
+        <gatling.version>2.3.0</gatling.version>
     </properties>
 
 
